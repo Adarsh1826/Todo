@@ -1,0 +1,32 @@
+# Node.js (for both backend and frontend)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Frontend (React specific)
+frontend/build/
+
+# Backend (Node.js specific)
+backend/node_modules/
+backend/.env
+
+# MongoDB data (if using a local MongoDB database)
+db/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Other files that should be ignored
+*.bak
+*.swp
