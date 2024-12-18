@@ -14,10 +14,7 @@ This is a simple Todo application built using the MERN stack (MongoDB, Express.j
 - **Frontend**: React, Chakra UI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (using Mongoose for MongoDB interactions)
-
-## Frontend Start
-- npm start
-
+  
 ## Backend Start
 - npm run dev
 
